@@ -14,7 +14,7 @@ The system is containerized using Docker and consists of two main services:
 * **Neo4j Database:** Stores the knowledge graph.
 * **ETL & Chat Service (builder):** A Python container that handles:
     * **NER (Named Entity Recognition):** Uses `cahya/bert-base-indonesian-ner` to extract names.
-    * **Relationship Extraction:** Uses **Google Gemini 1.5 Flash** to find connections between entities.
+    * **Relationship Extraction:** Uses **Google Gemini 2.5 Flash** to find connections between entities.
     * **Vector Embedding:** Uses `text-embedding-004` for semantic search.
     * **Chat Interface:** A terminal-based chatbot that queries both the Graph and Vector DB.
 
