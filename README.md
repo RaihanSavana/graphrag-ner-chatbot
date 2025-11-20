@@ -32,7 +32,7 @@ The system is containerized using Docker and consists of two main services:
 git clone [https://github.com/RaihanSavana/graphrag-ner-chatbot.git](https://github.com/RaihanSavana/graphrag-ner-chatbot.git)
 cd graphrag-ner-chatbot
 ```
-### Configure Secrets
+### 2. Configure Secrets
 Create a file named `.env` in the root directory (next to docker-compose.yml) and add your API keys:\\
 
 ```bash
