@@ -1,0 +1,6 @@
+pandas
+transformers
+torch
+google-generativeai
+neo4j
+streamlit

@@ -1,0 +1,1 @@
+print ('ETL Service: chatbot_app.py loaded.')

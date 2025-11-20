@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Ardana",
+    "label": "Person",
+    "confidence": 0.9852502942085266,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Ardini",
+    "label": "Person",
+    "confidence": 0.993024468421936,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Arya",
+    "label": "Person",
+    "confidence": 0.9484049081802368,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Arya Basusara",
+    "label": "Person",
+    "confidence": 0.6164101958274841,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Awanti",
+    "label": "Person",
+    "confidence": 0.8744598627090454,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Bambang",
+    "label": "Person",
+    "confidence": 0.9952067732810974,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Bambang Daneswara",
+    "label": "Person",
+    "confidence": 0.8312109708786011,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Bambang Manumadewa",
+    "label": "Person",
+    "confidence": 0.9831055402755737,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Bambang Sakri",
+    "label": "Person",
+    "confidence": 0.9723713994026184,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Bambang Satrukem",
+    "label": "Person",
+    "confidence": 0.9683924913406372,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Bambang Sriati",
+    "label": "Person",
+    "confidence": 0.9906265735626221,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Basukesti",
+    "label": "Person",
+    "confidence": 0.8640896081924438,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Basumurti",
+    "label": "Person",
+    "confidence": 0.7374483942985535,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Basunanda",
+    "label": "Person",
+    "confidence": 0.7519209384918213,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Basundara",
+    "label": "Person",
+    "confidence": 0.8856583833694458,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Basusara",
+    "label": "Person",
+    "confidence": 0.7952494621276855,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Batara",
+    "label": "Person",
+    "confidence": 0.9295141696929932,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Batara Ardana",
+    "label": "Person",
+    "confidence": 0.8542659878730774,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Batari",
+    "label": "Person",
+    "confidence": 0.7863816022872925,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Batari Ardini",
+    "label": "Person",
+    "confidence": 0.9251000881195068,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Brahmana",
+    "label": "Person",
+    "confidence": 0.7107440233230591,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Dewayasa",
+    "label": "Person",
+    "confidence": 0.8472461700439453,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Dewi",
+    "label": "Person",
+    "confidence": 0.9907482266426086,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Dewi Kaniraras",
+    "label": "Person",
+    "confidence": 0.9670602083206177,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Dewi Marapi",
+    "label": "Person",
+    "confidence": 0.9396695494651794,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Dewi Nilawati",
+    "label": "Person",
+    "confidence": 0.9877259135246277,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Dewi Prawita",
+    "label": "Person",
+    "confidence": 0.9814867973327637,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Ditya",
+    "label": "Person",
+    "confidence": 0.738741934299469,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Empu",
+    "label": "Person",
+    "confidence": 0.9055742621421814,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Empu Dewayasa",
+    "label": "Person",
+    "confidence": 0.7451713681221008,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Empu Kanomayasa",
+    "label": "Person",
+    "confidence": 0.7335564494132996,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Empu Prawa",
+    "label": "Person",
+    "confidence": 0.9108489155769348,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Empu Purbageni",
+    "label": "Person",
+    "confidence": 0.6570963859558105,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Gajahoya",
+    "label": "Person",
+    "confidence": 0.8067786693572998,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Gunung Saptaarga",
+    "label": "Location",
+    "confidence": 0.9823992848396301,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Hastimurti",
+    "label": "Person",
+    "confidence": 0.9598861336708069,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Hutan Minangsraya",
+    "label": "Location",
+    "confidence": 0.9714261889457703,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Janggan",
+    "label": "Person",
+    "confidence": 0.6868488192558289,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Janggan Smara",
+    "label": "Person",
+    "confidence": 0.7840365767478943,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Kalayaksa",
+    "label": "Person",
+    "confidence": 0.6789989471435547,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kali",
+    "label": "Person",
+    "confidence": 0.8961140513420105,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kamulan",
+    "label": "Person",
+    "confidence": 0.7650861740112305,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kanomayasa",
+    "label": "Person",
+    "confidence": 0.6375026106834412,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Kerajaan",
+    "label": "Person",
+    "confidence": 0.6658428907394409,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kerajaan Gajahoya",
+    "label": "Organization",
+    "confidence": 0.7423904538154602,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kerajaan Medang Kamulan",
+    "label": "Organization",
+    "confidence": 0.8125918507575989,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Kerajaan Wirata",
+    "label": "Organization",
+    "confidence": 0.6918030381202698,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Manumadewa",
+    "label": "Person",
+    "confidence": 0.8722832202911377,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Manumanasa",
+    "label": "Person",
+    "confidence": 0.8647856116294861,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Medang",
+    "label": "Person",
+    "confidence": 0.7594585418701172,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Medang Kamulan",
+    "label": "Organization",
+    "confidence": 0.816105842590332,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Murtadaka",
+    "label": "Person",
+    "confidence": 0.9136254191398621,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Murtadewi",
+    "label": "Person",
+    "confidence": 0.8504020571708679,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Nilawati",
+    "label": "Person",
+    "confidence": 0.7503083348274231,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Patih Basundara",
+    "label": "Person",
+    "confidence": 0.716815173625946,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Patih Citradana",
+    "label": "Person",
+    "confidence": 0.7750709056854248,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Patih Jayaloka",
+    "label": "Person",
+    "confidence": 0.6520828008651733,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Prabu",
+    "label": "Person",
+    "confidence": 0.9761629104614258,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Prabu Basukesti",
+    "label": "Person",
+    "confidence": 0.9704210162162781,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Prabu Basumurti",
+    "label": "Person",
+    "confidence": 0.6415048837661743,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Prabu Daneswara",
+    "label": "Person",
+    "confidence": 0.9674361348152161,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Prabu Durapati",
+    "label": "Person",
+    "confidence": 0.9582836031913757,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Prabu Hastimurti",
+    "label": "Person",
+    "confidence": 0.9703546762466431,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Prawa",
+    "label": "Person",
+    "confidence": 0.8251244425773621,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Prawita",
+    "label": "Person",
+    "confidence": 0.6418896913528442,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Putut Supalawa",
+    "label": "Person",
+    "confidence": 0.9442593455314636,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Raden",
+    "label": "Person",
+    "confidence": 0.9862133860588074,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Raden Wasanta",
+    "label": "Person",
+    "confidence": 0.9788476824760437,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Resi",
+    "label": "Person",
+    "confidence": 0.9311997890472412,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Resi Basunanda",
+    "label": "Person",
+    "confidence": 0.9584581851959229,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Resi Kuswala",
+    "label": "Person",
+    "confidence": 0.9479622840881348,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Resi Manumanasa",
+    "label": "Person",
+    "confidence": 0.9543375968933105,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Resi Suganda",
+    "label": "Person",
+    "confidence": 0.9745962023735046,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Saptaarga",
+    "label": "Organization",
+    "confidence": 0.8027635812759399,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Sarapamungkas",
+    "label": "Person",
+    "confidence": 0.7094355821609497,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Satrukem",
+    "label": "Person",
+    "confidence": 0.9228944182395935,
+    "stories": [
+      "Hastimurti Gugur",
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Smara",
+    "label": "Person",
+    "confidence": 0.8922733664512634,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Sri",
+    "label": "Person",
+    "confidence": 0.6510738134384155,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Sri Maharaja Purwacandra",
+    "label": "Person",
+    "confidence": 0.8127347826957703,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Sriati",
+    "label": "Person",
+    "confidence": 0.9903518557548523,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Utarakanda",
+    "label": "Location",
+    "confidence": 0.6076846122741699,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "Wasanta",
+    "label": "Person",
+    "confidence": 0.8424599766731262,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "Wirata",
+    "label": "Person",
+    "confidence": 0.8105068206787109,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "anak",
+    "label": "Person",
+    "confidence": 0.9057522416114807,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "anta",
+    "label": "Person",
+    "confidence": 0.6876962184906006,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "budi",
+    "label": "Person",
+    "confidence": 0.7433795928955078,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "eswara",
+    "label": "Person",
+    "confidence": 0.7033872604370117,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "ewa",
+    "label": "Person",
+    "confidence": 0.6539391875267029,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "hari",
+    "label": "Person",
+    "confidence": 0.7692464590072632,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "iraras",
+    "label": "Person",
+    "confidence": 0.725696325302124,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "kas",
+    "label": "Person",
+    "confidence": 0.7308715581893921,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "kepatihan",
+    "label": "Location",
+    "confidence": 0.6022775769233704,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "kis",
+    "label": "Person",
+    "confidence": 0.7625442147254944,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "laki",
+    "label": "Person",
+    "confidence": 0.8853412866592407,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "madewa",
+    "label": "Person",
+    "confidence": 0.8465391397476196,
+    "stories": [
+      "Sakri Lahir"
+    ]
+  },
+  {
+    "name": "oya",
+    "label": "Person",
+    "confidence": 0.6997234225273132,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "panah Sarapamungkas",
+    "label": "Person",
+    "confidence": 0.7188607454299927,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "panah Sarotama",
+    "label": "Person",
+    "confidence": 0.652410626411438,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "pangeran",
+    "label": "Person",
+    "confidence": 0.6361150145530701,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "raja Medang Kamulan",
+    "label": "Organization",
+    "confidence": 0.7959497570991516,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "rti",
+    "label": "Person",
+    "confidence": 0.8193441033363342,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "wara",
+    "label": "Person",
+    "confidence": 0.9191715717315674,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  },
+  {
+    "name": "yaksa",
+    "label": "Person",
+    "confidence": 0.7313081622123718,
+    "stories": [
+      "Hastimurti Gugur"
+    ]
+  }
+]

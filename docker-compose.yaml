@@ -1,0 +1,41 @@
+version: '3.9'
+
+services:
+  # Service 1: The Neo4j Database
+  neo4j:
+    image: neo4j:2025.10.1-community-bullseye
+    container_name: neo4j_wayang_db
+    ports:
+      - "7474:7474" # Web Browser
+      - "7687:7687" # Bolt connection for your script
+    restart: unless-stopped
+    volumes:
+      - ./db/data:/data # Persists your graph data
+      - ./db/conf:/conf # Persists your graph data
+      - ./db/logs:/logs # Persists your graph data
+      - ./db/plugins:/plugins # Persists your graph data
+    environment:
+      # Sets the username and password from your .env file
+      - NEO4J_AUTH=neo4j/password
+
+  # Service 2: The Python ETL "Builder" Script
+  builder:
+    container_name: wayang_graph_builder
+    # Tells Docker to build an image using the Dockerfile
+    # in the './etl-service' directory
+    build: ./etl-service
+    # Makes this script depend on the neo4j service
+    depends_on:
+      - neo4j
+    # Passes your secrets from the .env file into the container
+    env_file:
+      - .env
+    # Mounts your data folder into the container
+    volumes:
+      - ./etl-service/data:/app/data
+    ports:
+      - "8501:8501" 
+
+# Define the persistent volume for Neo4j data
+volumes:
+  neo4j_data:
