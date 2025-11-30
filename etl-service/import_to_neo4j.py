@@ -3,7 +3,7 @@ import os
 import time
 from neo4j import GraphDatabase
 # --- CONFIGURATION ---
-NER_FILE_PATH = "/app/data/ner_results.json"
+NER_FILE_PATH = "/app/data/ner_results_NusaBert-ner-v1.3.json"
 REL_FILE_PATH = "/app/data/relationships_NusaBert-ner-v1.3.json"
 NEO4J_URI = "bolt://neo4j:7687"
 NEO4J_USER = "neo4j"
