@@ -6,7 +6,7 @@ import re
 
 # --- CONFIGURATION ---
 CSV_FILE_PATH = "/app/data/Sakri_Lahir dan Hastimurti_Gugur.csv"
-OUTPUT_FILE_PATH = "/app/data/ner_results.json"
+OUTPUT_FILE_PATH = "/app/data/ner_results_NusaBert-ner-v1.3.json"
 
 # Lowered threshold slightly to catch names like "Arya Basusara" (0.61)
 CONFIDENCE_THRESHOLD = 0.60
@@ -74,7 +74,7 @@ def run_ner_process():
     print("2. Loading AI Model...")
     ner_pipeline = pipeline(
         "ner", 
-        model="cahya/bert-base-indonesian-ner", 
+        model="cahya/NusaBert-ner-v1.3", 
         aggregation_strategy="simple" 
     )
     print("   Model loaded!")

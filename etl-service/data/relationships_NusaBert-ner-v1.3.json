@@ -1,0 +1,1190 @@
+[
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "atih Jayaloka",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "esi Suganda",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "atih Jayaloka",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "esi Suganda",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Empu Purbageni",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Purbageni",
+    "target": "Empu Dewayasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Kanomayasa",
+    "target": "Empu Prawa",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Kaniraras",
+    "target": "Empu Prawa",
+    "type": "MOTHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Kanomayasa",
+    "target": "Dewi Kaniraras",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Prawa",
+    "target": "Empu Kanomayasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Prawa",
+    "target": "Dewi Kaniraras",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Prawa",
+    "target": "Dewi Marapi",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Marapi",
+    "target": "Empu Purbageni",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Purbageni",
+    "target": "Dewi Marapi",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Empu Purbageni",
+    "type": "LEADER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Empu Prawa",
+    "type": "LEADER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Purbageni",
+    "target": "Empu Prawa",
+    "type": "LEADER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Utarakanda",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Purwakanda",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Daksinakanda",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Pracimakanda",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Bambang Daneswara",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Daneswara",
+    "target": "Resi Kuswala",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Cingkaradewa",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Sri Maharaja Purwacandra",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Ditya Citradana",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Ditya Citradana",
+    "target": "Resi Kuswala",
+    "type": "STUDENT_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Putut Margana",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Putut Margana",
+    "target": "Resi Kuswala",
+    "type": "STUDENT_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Ditya Citradana",
+    "target": "Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Putut Margana",
+    "target": "Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "ya Kalayaksa",
+    "target": "Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "ya Kalayaksa",
+    "target": "Resi Kuswala",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "ya Kalayaksa",
+    "target": "Ditya Citradana",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "ya Kalayaksa",
+    "target": "Putut Margana",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Patih Jayaloka",
+    "target": "Resi Kuswala",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Patih Jayaloka",
+    "target": "Ditya Citradana",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Patih Jayaloka",
+    "target": "Putut Margana",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Patih Jayaloka",
+    "target": "ya Kalayaksa",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Resi Kuswala",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Ditya Citradana",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Putut Margana",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "ya Kalayaksa",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sakri",
+    "target": "Bambang Satrukem",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sakri",
+    "target": "Dewi Nilawati",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Dewi Nilawati",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Padepokan Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Putut Supalawa",
+    "type": "LEADER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Janggan Smara",
+    "type": "LEADER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Kaniraras",
+    "target": "Resi Manumanasa",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Kaniraras",
+    "target": "Prabu Durapati",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Kaniraras",
+    "target": "Kerajaan Duhyapura",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Kerajaan Duhyapura",
+    "target": "Tanah Hindustan",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Raden Prawa",
+    "target": "Empu Kanomayasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Prawita",
+    "target": "Empu Kanomayasa",
+    "type": "DAUGHTER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Raden Prawa",
+    "target": "Dewi Kaniraras",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Prawita",
+    "target": "Dewi Kaniraras",
+    "type": "DAUGHTER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Kanomayasa",
+    "target": "Dewi Kaniraras",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Raden Prawa",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Dewi Prawita",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Raden Prawa",
+    "target": "Dewi Marapi",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Marapi",
+    "target": "Empu Dewayasa",
+    "type": "DAUGHTER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Dewi Prawita",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Bambang Sriati",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Bambang Sriati",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Bambang Manumadewa",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Bambang Sriati",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Bambang Manumadewa",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Bambang Satrukem",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Bambang Satrukem",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Bambang Sriati",
+    "type": "SIBLING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batara Ardana",
+    "target": "Bambang Manumadewa",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Bambang Manumadewa",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Bambang Manumadewa",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batara Ardana",
+    "target": "Resi Manumanasa",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Resi Manumanasa",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batara Ardana",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Dewi Prawita",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Prawita",
+    "target": "Bambang Sriati",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Kerajaan Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Daneswara",
+    "target": "Kerajaan Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Bambang Daneswara",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Daneswara",
+    "target": "Resi Kuswala",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Resi Kuswala",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Bambang Daneswara",
+    "type": "ENEMY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Prabu Basupati",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basupati",
+    "target": "Prabu Basukesti",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Resi Kuswala",
+    "type": "KILLED_BY",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Daneswara",
+    "target": "Resi Kuswala",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Bambang Daneswara",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Prawita",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Bambang Manumadewa",
+    "type": "FATHER_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Nilawati",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batara Ardana",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Batara Ardana",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batara Ardana",
+    "target": "Bambang Manumadewa",
+    "type": "STUDENT_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Batari Ardini",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Bambang Manumadewa",
+    "type": "STUDENT_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Manumadewa",
+    "target": "Batari Ardini",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Batari Ardini",
+    "target": "Bambang Manumadewa",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Empu Dewayasa",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Dewi Prawita",
+    "type": "MARRIED_TO",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Dewi Prawita",
+    "target": "Kerajaan Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Bambang Sriati",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Resi Manumanasa",
+    "target": "Bambang Sriati",
+    "type": "MENTOR_OF",
+    "story_source": "Sakri Lahir"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Prabu Hastimurti",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Wirata",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Prabu Basukesti",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Arya Basusara",
+    "target": "Patih Basundara",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Prabu Daneswara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Sri Maharaja Purwacandra",
+    "target": "Medang Kamulan",
+    "type": "LEADER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Basunanda",
+    "target": "Dewi Awanti",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Brahmana Wisaka",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Sriwahana",
+    "target": "Sri Maharaja Wisaka",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Sriwahana",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Patih Basundara",
+    "target": "Prabu Hastimurti",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Kerajaan Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Patih Citradana",
+    "target": "Prabu Daneswara",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Patih Citradana",
+    "target": "Kerajaan Medang Kamulan",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Resi Kuswala",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Prabu Basukesti",
+    "type": "KILLED_BY",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Sri Maharaja Purwacandra",
+    "target": "Kerajaan Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Patih Basundara",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Arya Basusara",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Patih Basundara",
+    "target": "Arya Basusara",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Raden Wasanta",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Patih Basundara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Arya Basusara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Ditya Kalayaksa",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Ditya Kalayaksa",
+    "target": "Raden Wasanta",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Hutan Minangsraya",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Raden Wasanta",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Ditya Kalayaksa",
+    "target": "Raden Wasanta",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Hutan Minangsraya",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Janggan Smara",
+    "target": "Hutan Minangsraya",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Resi Manumanasa",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Raden Wasanta",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Ditya Kalayaksa",
+    "target": "Bambang Satrukem",
+    "type": "KILLED_BY",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Janggan Smara",
+    "target": "Bambang Satrukem",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Raden Wasanta",
+    "type": "FATHER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Medang Kamulan",
+    "type": "LEADER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Prabu Hastimurti",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Prabu Daneswara",
+    "type": "KILLED_BY",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Basunanda",
+    "target": "Prabu Basukesti",
+    "type": "SIBLING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Resi Basunanda",
+    "type": "SIBLING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Prabu Daneswara",
+    "type": "KILLED_BY",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Wirata",
+    "type": "LEADER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Prabu Daneswara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Kerajaan Wirata",
+    "type": "LEADER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Prabu Daneswara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Kerajaan Wirata",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Kerajaan Wirata",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Janggan Smara",
+    "target": "Kerajaan Wirata",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Janggan Smara",
+    "target": "Prabu Basukesti",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Resi Kuswala",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Kuswala",
+    "target": "Prabu Daneswara",
+    "type": "FATHER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Kerajaan Wirata",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Daneswara",
+    "target": "Medang Kamulan",
+    "type": "KING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Prabu Daneswara",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Resi Basunanda",
+    "type": "SIBLING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Basunanda",
+    "target": "Prabu Basukesti",
+    "type": "SIBLING_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Hastimurti",
+    "target": "Medang Kamulan",
+    "type": "ENEMY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Kerajaan Wirata",
+    "target": "Medang Kamulan",
+    "type": "LEADER_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Raden Wasanta",
+    "target": "Prabu Hastimurti",
+    "type": "SON_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Resi Basunanda",
+    "target": "Kerajaan Wirata",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Bambang Satrukem",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Janggan Smara",
+    "target": "Gunung Saptaarga",
+    "type": "LOCATED_IN",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Bambang Satrukem",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  },
+  {
+    "source": "Prabu Basukesti",
+    "target": "Janggan Smara",
+    "type": "ALLY_OF",
+    "story_source": "Hastimurti Gugur"
+  }
+]

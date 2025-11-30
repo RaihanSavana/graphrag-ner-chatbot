@@ -6,8 +6,8 @@ import time
 
 # --- CONFIGURATION ---
 CSV_FILE_PATH = "/app/data/Sakri_Lahir dan Hastimurti_Gugur.csv"
-NER_FILE_PATH = "/app/data/ner_results.json"
-OUTPUT_FILE_PATH = "/app/data/relationships.json"
+NER_FILE_PATH = "/app/data/ner_results_NusaBert-ner-v1.3.json"
+OUTPUT_FILE_PATH = "/app/data/relationships_NusaBert-ner-v1.3.json"
 
 # Load API Key
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")

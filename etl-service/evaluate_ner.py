@@ -2,7 +2,7 @@ import json
 import os
 
 # --- CONFIGURATION ---
-RESULTS_FILE_PATH = "/app/data/ner_results.json"
+RESULTS_FILE_PATH = "/app/data/ner_results 1.json"
 
 # --- GOLD STANDARD (Ground Truth) ---
 # This list represents the "Correct Answers".
